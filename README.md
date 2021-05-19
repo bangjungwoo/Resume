@@ -2,4 +2,4 @@
 ---
 ![자기소개사진](사진.jpg)
 
-<img src=사진.jpg height=150 widht=150
+<img src=사진.jpg height=150 width=150
